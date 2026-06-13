@@ -1,0 +1,8 @@
+{
+    "AllowSyntaxCalculation": true,
+    "SyntaxAllowence:" false,
+    "SynaxType": "Compiler",
+
+    // Syntax handler
+    "SynHandlerLanguage": true
+}
