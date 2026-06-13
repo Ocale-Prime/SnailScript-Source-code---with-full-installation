@@ -11,5 +11,17 @@ class func1
         Console.WriteLine("Function and args: " + func12 + " args: " + args);
     }
 
-  // More code will be added, and updated, for now this is the function readonly argument
+  public static void START()
+  {
+        private var func_sys = new function_creat_local_copy();
+        public static int[] function = new int[5];
+        // Creating the ammounts of command bases xelon. Coming soon
+  }
+}
+
+// Class func2 propoties coming soom 
+
+class func2 : func1
+{
+    
 }
