@@ -1,0 +1,7 @@
+; Ocale[Editor] + .inf rights to MS
+
+Signuture= "SnailOS$"
+[Dockertype]= "runtime"
+[DockerInfo]= "compiler + drivers: OSDATA"
+
+[ReturnInfo]= "Return compiler info"
