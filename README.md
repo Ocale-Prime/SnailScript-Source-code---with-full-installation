@@ -29,3 +29,15 @@ Here are the **Logo(s)** of SnailScript and SnailScript++ :
 <img width="740" height="738" alt="Screenshot 2026-06-12 151550" src="https://github.com/user-attachments/assets/55760662-ec30-475f-bfdf-fd39eee56716" />
 
 
+here is example *code from the code itself (fresh)*:
+
+"print",    *prints a text to the output using print<*""*>, new update: its different*
+"reint_load<p::{}<load_krnl.exe>", loads the kernel under load[**Sandboxed**]
+"kernel<load{*}{}input::<>loader>", loads the kernel under the loaded operating system [**Sandboxed**]
+"kernel::Loader.exe{**}", loads the functional kernel, with the loader.exe [**Sandboxed**]
+"load::operating_system<load_new::{}>function{*}{<void>?:load}", loads the operating system, even when it is loaded [**OPerating System**]
+"Type<operating_system::load?>::function\\load[*]", Prints the Requirements for SnailScript
+
+The requirements for SnailScript is going to be: 
+
+Availble software operating system: Windows x64 + Requirments: AMD ryzen 5000 series 7 + AMD Radeon graphics or higher. Intel CPU + Intel Graphics + Nividia Graphics or LumaOS G-Force Virtual graphics (depnding on the Operating system version of the Luma Installation process
