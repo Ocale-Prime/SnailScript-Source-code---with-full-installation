@@ -1,43 +1,38 @@
-# SnailScript-Source-code---with-full-installation
-This Repo will have the Source code for SnailScript - inclusiv .json packages
+# SnailScript Language
+SnailScript is a C# Based language created by the Original Creator Ocale and is officially distrubuted by Infosoft. Ocale has gaven us **the permission for the UAC and To make changes to this Repo**, as we are the new editors, creating everything from scratch in C++[.], SnailScript has the following features, including SSD controls and Kernel integration:
 
-Welcome to the **Ocale Repo Of SnailScript in Main**. The particular language has a very different type of syntax, mostly because it is a very low-level language created by Ocale studio. Ths language is a level 4 language with different extension:
-Here are some **Extensions** for different type of SnailScript/SS Versions:
+- *Defaults/Mains:*
+- Kernel integration
+- Sandboxed controled environment
+- *Added features in C++ * Infosoft*
+- System restore
+- CBL(Compiled based language0
+- FFMPEG(for video dev or projects for media source)
+- New syntax* Syntax Code blocks 
+- new type
+- Integration with the Win32 API
+- libraries
+- Kernel controlled environment
+- Kernel libraries
 
-1. *.ss* : SnailScript Source File
-2. *.sms*: SS Registry handler
-3. *.ass*: Application SnailScript File
-4. *.wss*: Web SnailScript File
-5. *.sspp*: SnailScript++ Source file
-6. *.ssrm*: SnailScript Machine Integration
+For a specific type, **Any files containing C# Code will be deprecated**, codes like:
+```snailscript
+loade<::>{kernel(*)(){*}{input}}<>[::]type{**};call
+```
+Will be not ran anymore, because of compiler changes, and the Virtual Lab Code or VLC will have a different integrity over the SnailScript Programming language
 
-the *.ssrm* SnailScript version is a level 4 Type of programming language, usualy made for OS dev. In this case, SnailScript versions primarly run in the SnailOS operating system, where you can get the Source code later. But regardless
-there are 4 types of Programming Languages. These are *Our way to define language*:
+# SnailScript Syntax type and build
+**Snailscript is a Language where OS integration matter the most**, depending on some version(.wss) or .ss, will be changed as of affect with the language compiler, which is a no, that means that datatypes of Snailscript(.wss or .sms), will be text based, and will have restore data points. is a modern version code of .wss [:]
 
- **Level 1**: High level but intepretered: Python, Z# (both, high level and low level)
- **Level 2**: High level -> Low level (both) and Compiler + intrepter: Z#, C# 
- **Level 3**: Low level (1): C++, WASM
- **Level 4**: Low level (2): ASM, Machine Code
+```snailscript
+CREATE:
+  type:<function>:stdin()
+  {
+      stdin<{println::compilertype*mb)><"Hello world!">{*}{:<>:}
+  }
+```
 
- *Note*:
-Depending on the extension, the syntax can change up on different versions of SnailScript.
-
-Here are the **Logo(s)** of SnailScript and SnailScript++ :
-
-<img width="785" height="787" alt="Screenshot 2026-06-13 113241" src="https://github.com/user-attachments/assets/59040361-faaf-4f38-93ce-371327c3b4bc" />
-
-<img width="740" height="738" alt="Screenshot 2026-06-12 151550" src="https://github.com/user-attachments/assets/55760662-ec30-475f-bfdf-fd39eee56716" />
+this build prints the text to the compiler, because ```snailscript  println ``` is a type of function to print stuff.
+Thank you very much!
 
 
-here is example *code from the code itself (fresh)*:
-
-"print",    *prints a text to the output using print<*""*>, new update: its different*
-"reint_load<p::{}<load_krnl.exe>", loads the kernel under load[**Sandboxed**]
-"kernel<load{*}{}input::<>loader>", loads the kernel under the loaded operating system [**Sandboxed**]
-"kernel::Loader.exe{**}", loads the functional kernel, with the loader.exe [**Sandboxed**]
-"load::operating_system<load_new::{}>function{*}{<void>?:load}", loads the operating system, even when it is loaded [**OPerating System**]
-"Type<operating_system::load?>::function\\load[*]", Prints the Requirements for SnailScript
-
-The requirements for SnailScript is going to be: 
-
-Availble software operating system: Windows x64 + Requirments: AMD ryzen 5000 series 7 + AMD Radeon graphics or higher. Intel CPU + Intel Graphics + Nividia Graphics or LumaOS G-Force Virtual graphics (depnding on the Operating system version of the Luma Installation process
